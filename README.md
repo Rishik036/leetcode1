@@ -1,1 +1,4 @@
-I am Rishik Ranjith K,studying computer science and engineering at vimaljyothi engineering college
+#palindrome
+#twosum
+#reversestring
+#vjec
