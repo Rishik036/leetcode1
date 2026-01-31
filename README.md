@@ -1,1 +1,1 @@
-I am Rishik Ranjith K,studying computer science and engineering
+I am Rishik Ranjith K,studying computer science and engineering at vimaljyothi engineering college
