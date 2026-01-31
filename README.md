@@ -1,1 +1,1 @@
-# leetcode1
+I am Rishik Ranjith K,studying computer science and engineering
